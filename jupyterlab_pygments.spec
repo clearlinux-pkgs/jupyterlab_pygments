@@ -4,7 +4,7 @@
 #
 Name     : jupyterlab_pygments
 Version  : 0.1.2
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/d1/79/3677d138eeacbba7cf6d0e51e6b8c094448329f7b8a523a5d2599bc898e7/jupyterlab_pygments-0.1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d1/79/3677d138eeacbba7cf6d0e51e6b8c094448329f7b8a523a5d2599bc898e7/jupyterlab_pygments-0.1.2.tar.gz
 Summary  : Pygments theme using JupyterLab CSS variables
